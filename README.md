@@ -23,8 +23,8 @@
 ## 2. Link
 
 -   Docs : [MatchBox Docs](https://github.com/Match-Box-Team/Docs/wiki) <br>
--   Frontend Repo : [MatchBox Front](https://github.com/Match-Box-Team/FrontEnd) <br>
--   Backend Repo : [MatchBox Back](https://github.com/Match-Box-Team/BackEnd) <br>
+-   Frontend Repo : [MatchBox Frontend](https://github.com/Match-Box-Team/FrontEnd) <br>
+-   Backend Repo : [MatchBox Backend](https://github.com/Match-Box-Team/BackEnd) <br>
     <br>
     
 
