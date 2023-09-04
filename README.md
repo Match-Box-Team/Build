@@ -4,12 +4,12 @@
 
 ## 0. 목차
 
--   [1. Introduce](#1-Introduce-)
--   [2. 링크](#2-Link-)
--   [3. stacks](#3-Stacks-)
--   [4. 프로젝트 구조](#4-Diagram-)
--   [5. 프로젝트 내용](#5-Working-App-Video-)
--   [6. 팀 소개](#6-MatchBox-Team-)
+-   [1. Introduce](#1-Introduce)
+-   [2. 링크](#2-Link)
+-   [3. stacks](#3-Stacks)
+-   [4. 프로젝트 구조](#4-Diagram)
+-   [5. 프로젝트 내용](#5-Working-App-Video)
+-   [6. 팀 소개](#6-MatchBox-Team)
 
 <br>
 
