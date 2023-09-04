@@ -27,16 +27,60 @@
 -   Frontend Repo : [MatchBox Front](https://github.com/Match-Box-Team/FrontEnd) <br>
 -   Backend Repo : [MatchBox Back](https://github.com/Match-Box-Team/BackEnd) <br>
     <br>
+    
 
 ## 3. Stacks
 
--   ### Frontend <br>
+<table border="1" align="center">
+  <th align="center">파트</th>
+  <th align="center">기술스택</th>
+  <th align="center">선정이유</th>
+  <tr>
+    <td rowspan="3" align="center">Common</td>
+    <td><img src="https://static-00.iconduck.com/assets.00/typescript-icon-icon-1024x1024-vh3pfez8.png" width="15px" alt="typescript_icon" /> TypeScript</td>
+    <td>Type 안정성을 보장하여 런타임 에러 방지</td>
+  </tr>
+  <tr>
+    <td><img src="https://prettier.io/icon.png" width="15px" alt="prettier_icon" /> Prettier</td>
+    <td>코드 스타일 정형화를 통한 협업 능률 향상</td>
+  </tr>
+  <tr>
+    <td><img src="https://p1.hiclipart.com/preview/609/87/646/react-logo-socketio-javascript-expressjs-github-html5-nodejs-network-socket-png-clipart.jpg" width="15px" alt="socket.io_icon" /> Socket.io</td>
+    <td>실시간 채팅 및 게임 기능 구현을 위해 HTTP 통신이 아닌 소켓 통신 필요</td>
+  </tr>
+  <tr>
+    <td rowspan="3" align="center">Backend</td>
+    <td><img src="https://docs.nestjs.com/assets/logo-small.svg" width="15px" alt="nestjs_icon" /> NestJS</td>
+    <td> <code>DI</code> : 의존관계를 분리하여 수정 및 재사용이 용이함 <br/> <code>IoC</code> : 컴포넌트와 모듈에 집중한 프로그래밍 가능, 유지보수 또는 확장시 편리</td>
+  </tr>
+  <tr>
+    <td><img src="https://w7.pngwing.com/pngs/396/90/png-transparent-postgresql-database-logo-computer-icons-replication-software-developer-miscellaneous-blue-mammal-thumbnail.png" width="15px" alt="postgresql_icon" /> PostgreSQL</td>
+    <td>영구 무료인 오픈소스, 참고할 자료가 많고 다양함</td>
+  </tr>
+  <tr>
+    <td><img src="https://icons-for-free.com/iconfiles/png/512/vscode+icons+type+light+prisma-1324451365475006031.png" width="15px" alt="prisma_icon" /> Prisma</td>
+    <td>RDBMS의 데이터 구조와 객체지향 모델 사이의 간격을 줄여 생산성 증가</td>
+  </tr>
+  <tr>
+    <td rowspan="3" align="center">Frontend</td>
+    <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" width="15px" alt="react_icon" /> React</td>
+    <td>컴포넌트 기반 아키텍처를 통해 모듈화와 재사용성을 높여 개발 생산성을 향상</td>
+  </tr>
+  <tr>
+    <td><img src="https://blog.kakaocdn.net/dn/l92lK/btqFNFi2V2k/kIYdVhPlhlvoG8ULF0uy61/img.png" width="15px" alt="styled_components_icon" /> styled-components</td>
+    <td>컴포넌트 기반 디자인을 강화하고 재사용성을 향상</td>
+  </tr>
+  <tr>
+    <td><img src="https://blog.kakaocdn.net/dn/14SHN/btsg1tFqmtp/VGLOZLfWKOuFVqGbsqTfnK/img.png" width="15px" alt="recoil_icon" /> Recoil</td>
+    <td>React 상태 관리를 간단하게 처리하여 코드 유지보수와 개발 생산성을 향상</td>
+  </tr>
+  <tr>
+    <td rowspan="1" align="center">Infra</td>
+    <td><img src="https://techstack-generator.vercel.app/docker-icon.svg" width="15px" alt="docker-compose_icon" /> Docker-compose</td>
+    <td> 컨테이너를 이용한 가상환경 구성 및 빌드 자동화</td>
+  </tr>
+</table>
 
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=?style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/React-61DAFB?style=?style=for-the-badge&logo=React&logoColor=blue"/> <img src="https://img.shields.io/badge/TypeScript-blue?style=?style=for-the-badge&logo=TypeScript&logoColor=white"/><img src="https://img.shields.io/badge/StyledComponents-DB7093?style=?style=for-the-badge&logo=styled-components&logoColor=white"/><img src="https://img.shields.io/badge/ESLint-4B32C3?style=?style=for-the-badge&logo=ESLint&logoColor=white"/> <img src="https://img.shields.io/badge/Recoil-0088CC?style=flat-squre&logo=&logoColor=white"><img src="https://img.shields.io/badge/ReactRouter-0088CC?style=flat-squre&logo=reactrouter&logoColor=white">
-
--   ### Backend
-    <img src="https://img.shields.io/badge/NestJS-E0234E?style=?style=for-the-badge&logo=NestJS&logoColor=white"/><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=?style=for-the-badge&logo=PostgreSQL&logoColor=white"/><img src="https://img.shields.io/badge/Prisma-2D3748?style=?style=for-the-badge&logo=Prisma&logoColor=white"/><img src="https://img.shields.io/badge/Docker-2496ED?style=?style=for-the-badge&logo=docker&logoColor=white"/><img src="https://img.shields.io/badge/Docker-2496ED?style=?style=for-the-badge&logo=docker&logoColor=white"/><img src="https://img.shields.io/badge/NginX-009639?style=?style=for-the-badge&logo=nginx&logoColor=white"/><img src="https://img.shields.io/badge/Socket.IO-010101?style=?style=for-the-badge&logo=socketdotio&logoColor=white"/><img src="https://img.shields.io/badge/Dot_ENV-009639?style=?style=for-the-badge&logo=dotenv&logoColor=white"/>
-    <br>
 
 ## 4. Diagram
 
